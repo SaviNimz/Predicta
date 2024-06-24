@@ -1,0 +1,1 @@
+This repository contains the jupyter notebooks of the approaches our team took for the competition predicta. 
